@@ -1,21 +1,12 @@
 {
   "todos": [
     {
-      "id": 1,
-      "name": "Buy milk",
-      "done": true,
-      "priority": 2
-    },
-    {
       "id": 2,
       "name": "Buy bread",
       "done": true,
       "priority": 1
     },
     {
-      "name": "Fit myself",
-      "done": true,
-      "priority": 2,
       "id": 3
     },
     {
@@ -32,6 +23,9 @@
       "done": false,
       "priority": 3,
       "id": 6
+    },
+    {
+      "id": 7
     }
   ]
 }
